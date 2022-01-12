@@ -2,6 +2,8 @@ import React from "react";
 import FeaturedInfo from "../../components/featureInfo/FeaturedInfo";
 import Charts from "../../components/charts/Charts";
 import { userData } from "../../dummyData";
+import WidgetSmall from "../../components/widgetSmall/WidgetSmall";
+import WidgetLarge from "../../components/widgetLarge/WidgetLarge";
 
 import "./home.css";
 function Home() {
@@ -14,7 +16,10 @@ function Home() {
         grid
         dataKey="Active User"
       />
-      <div className="homeWidgets"></div>
+      <div className="homeWidgets">
+        <WidgetSmall />
+        <WidgetLarge />
+      </div>
     </div>
   );
 }
