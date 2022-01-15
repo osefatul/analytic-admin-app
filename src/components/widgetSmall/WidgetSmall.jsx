@@ -17,7 +17,8 @@ function WidgetSmall() {
             <span className="widgetSmallUserTitle">Freeing countries</span>
           </div>
           <button className="widgetSmallbtn">
-            <Visibility />
+            <Visibility className="widgetSmallIcon" />
+            Display
           </button>
         </li>
         <li className="widgetSmallListItem">
@@ -30,7 +31,8 @@ function WidgetSmall() {
             <span className="widgetSmallUserTitle">Freeing countries</span>
           </div>
           <button className="widgetSmallbtn">
-            <Visibility />
+            <Visibility className="widgetSmallIcon" />
+            Display
           </button>
         </li>
         <li className="widgetSmallListItem">
@@ -43,7 +45,8 @@ function WidgetSmall() {
             <span className="widgetSmallUserTitle">Freeing countries</span>
           </div>
           <button className="widgetSmallbtn">
-            <Visibility />
+            <Visibility className="widgetSmallIcon" />
+            Display
           </button>
         </li>
         <li className="widgetSmallListItem">
@@ -56,7 +59,8 @@ function WidgetSmall() {
             <span className="widgetSmallUserTitle">Freeing countries</span>
           </div>
           <button className="widgetSmallbtn">
-            <Visibility />
+            <Visibility className="widgetSmallIcon" />
+            Display
           </button>
         </li>
         <li className="widgetSmallListItem">
@@ -69,7 +73,8 @@ function WidgetSmall() {
             <span className="widgetSmallUserTitle">Freeing countries</span>
           </div>
           <button className="widgetSmallbtn">
-            <Visibility />
+            <Visibility className="widgetSmallIcon" />
+            Display
           </button>
         </li>
       </ul>
