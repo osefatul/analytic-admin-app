@@ -1,7 +1,7 @@
 import React from "react";
 import "./topbar.css";
 
-import { NotificationsNone, Language, Settings } from "@mui/icons-material";
+import { NotificationsNone, Language, Settings } from "@material-ui/icons";
 
 function Topbar() {
   return (

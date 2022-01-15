@@ -13,7 +13,7 @@ import {
   Timeline,
   TrendingUp,
   WorkOutline,
-} from "@mui/icons-material";
+} from "@material-ui/icons";
 function Sidebar() {
   return (
     <div className="sidebar">

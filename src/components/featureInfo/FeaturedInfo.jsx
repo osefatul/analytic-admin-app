@@ -1,4 +1,5 @@
-import { ArrowDownward, ArrowUpward } from "@mui/icons-material";
+// import { ArrowDownward, ArrowUpward } from "@mui/icons-material";
+import { ArrowDownward, ArrowUpward } from "@material-ui/icons";
 import React from "react";
 import "./featuredInfo.css";
 function FeaturedInfo() {

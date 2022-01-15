@@ -1,4 +1,4 @@
-import { Visibility } from "@mui/icons-material";
+import { Visibility } from "@material-ui/icons";
 import React from "react";
 import "./widgetSmall.css";
 
