@@ -1,4 +1,4 @@
-# ANALYTICAL ADMIN DASHBOAR
+# ANALYTICAL ADMIN DASHBOARD
 
 CLick on the [this link](https://peaceful-galileo-383af2.netlify.app), it will redirect you to the webpage.
 - Home, Users, Products are active tabs to show the purpose of this web app as an Admin. You have the power to carry out some special function such as below.
