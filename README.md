@@ -1,9 +1,10 @@
 # ANALYTICAL ADMIN DASHBOARD
-
-CLick on the [this link](https://peaceful-galileo-383af2.netlify.app), it will redirect you to the webpage.
-
 ### Intro
 Admin dashboard is a common practice in every website nowadays where there is need for an authority to manage the website contents and users. We developed a top-notch web application where an admin can add, delete, edit users, products and etc..
+
+### Live
+CLick on the [this link](https://peaceful-galileo-383af2.netlify.app), it will redirect you to the webpage.
+
 
 ### Details
 - Home, Users, Products are active tabs to show the purpose of this web app as an Admin. You have the power to carry out some special function such as below.
